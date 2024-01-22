@@ -1,6 +1,9 @@
 # Package Overview
 package_name: titanic_classification_model
 
+# Package Overview
+package_name: titanic_classification_model
+
 # Data Files
 raw_data_file: titanic_raw.csv
 training_data_file: titanic_train.csv
@@ -44,7 +47,7 @@ categorical_vars:
   - title
   - sex
 
-numerical_vars_with_na:
+numerical_vars:
   - age
   - fare
 
